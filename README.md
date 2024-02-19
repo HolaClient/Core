@@ -1,4 +1,4 @@
-![image](https://github.com/HolaClient/X/assets/102372274/b4ae00f0-43ac-4d81-ac27-585f0baa4e08)
+![image](https://github.com/HolaClient/X/assets/102372274/d939f9e0-d3fb-4a41-adc8-68af5cf28612)
 <h1 align="center" dir="auto">HolaClient-X</h1>
 <p align="center">
 The all new series of HolaClient.
