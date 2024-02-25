@@ -7,7 +7,7 @@ The all new series of HolaClient.
 ---
 
 Coming soon.
-February, 2024
+March, 2024
 
 ---
 
