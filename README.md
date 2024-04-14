@@ -1,6 +1,6 @@
-![image](https://github.com/HolaClient/X/assets/102372274/4466b22c-4919-49d6-ac6a-1addfd5ad963)
+![image](https://github.com/HolaClient/Core/assets/102372274/e94cc3e1-7621-4740-a027-80e972f7d6e0)
 
-<h1 align="center" dir="auto">HolaClient-X</h1>
+<h1 align="center" dir="auto">HolaClient Core</h1>
 <p align="center">
 The all new series of HolaClient.
 </p>
@@ -8,10 +8,10 @@ The all new series of HolaClient.
 ---
 
 Coming soon.
-March, 2024
+April, 2024
 
 ---
 
 <p align="center">
-© 2022 - 2024 HolaClient | Licensed under MIT
+© 2022 - 2024 HolaClient
 </p>
