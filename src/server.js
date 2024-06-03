@@ -286,7 +286,11 @@ try {
 				res.statusCode = 302;
 				res.setHeader('Location', data);
 				return res.end();
-			}
+			};
+			res.html = function (data) {
+				res.setHeader('Content-Type', 'text/html');
+				return res.end(data)
+			};
 			let fns = [...wares];
 			const obj = find(req.method, req.path, routes, handlers);
 			if (obj) {

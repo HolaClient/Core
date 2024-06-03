@@ -1,6 +1,6 @@
 {
     "name": "holaclient-corex",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "Wrapper package of HolaClient-X",
     "repository": "https://github.com/HolaClient/Core",
     "homepage": "https://core.holaclient.io/X",
