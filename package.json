@@ -1,0 +1,19 @@
+{
+    "name": "holaclient-corex",
+    "version": "0.1.0",
+    "description": "Wrapper package of HolaClient-X",
+    "repository": "https://github.com/HolaClient/Core",
+    "homepage": "https://core.holaclient.io/X",
+    "main": "index.js",
+    "license": "https://github.com/HolaClient/Core/blob/master/LICENSE",
+    "author": {
+        "name": "CR072",
+        "url": "https://github.com/CR072"
+    },
+    "engines": {
+        "node": ">=20.7"
+    },
+    "dependencies": {
+        "ws": "^8.17.0"
+    }
+}
